@@ -47,5 +47,3 @@ $(document).ready(function() {
   }
 });
 
-
-module.exports = createEl;
